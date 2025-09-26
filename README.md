@@ -2,7 +2,7 @@ Organizer+ (File Organizer)
 
 Organizer+ is a Python desktop application that helps you organize files by automatically creating categorized folders in a selected directory and moving files into them based on their extensions.
 
-![App screenshoot](readmepic/app.png)
+<img src="readmepic/app.png" alt="App screenshot" width="400">
 
 Features:
 - Categorizes files automatically based on file extensions.
