@@ -15,7 +15,7 @@ Features:
 
 1. **Clone the repository**:
 ```bash
-https://github.com/gr1dsan/OrganizerPlus.git
+git clone https://github.com/gr1dsan/OrganizerPlus.git
 ```
 
 2. **Enter the repo folder**:
